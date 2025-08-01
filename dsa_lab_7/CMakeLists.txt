@@ -3,4 +3,5 @@ project(dsa_lab_7)
 
 set(CMAKE_CXX_STANDARD 20)
 
-add_executable(dsa_lab_7 main.cpp)
+add_executable(dsa_lab_7 main.cpp
+        second.cpp)
